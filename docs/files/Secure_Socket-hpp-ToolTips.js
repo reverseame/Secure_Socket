@@ -1,0 +1,1 @@
+﻿NDContentPage.OnToolTipsLoaded({15:"<div class=\"NDToolTip TSection LC\"><div class=\"TTSummary\">Class whose main purpose is to manage the AES key once generated, as well as its parameters.</div></div>"});

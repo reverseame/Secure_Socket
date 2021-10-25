@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("soc",["Variable"],[["socket_",,[[,,,,0,"File:Secure_Socket.hpp:socket_"]]]]);

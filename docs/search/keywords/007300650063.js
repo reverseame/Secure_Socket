@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("sec",["Function","Section"],[["secure_close",,[[,,,,0,"File:Secure_Socket.hpp:secure_close"]]],["secure_recv",,[[,,,,0,"File:Secure_Socket.hpp:secure_recv"]]],["secure_send",,[[,,,,0,"File:Secure_Socket.hpp:secure_send"]]],["Secure_Socket",,[[,,,,1,"File:Secure_Socket.hpp:Secure_Socket"]]]]);
