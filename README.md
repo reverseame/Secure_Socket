@@ -1,6 +1,8 @@
 # Secure Socket
 Sockets implementing hybrid encryption using Crypto++. Developed and tested under Linux.
 
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 ## Requirements
 
 * [Crypto++](https://github.com/weidai11/cryptopp) 8.5 (version available as of July 21, 2021)
