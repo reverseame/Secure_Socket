@@ -162,6 +162,8 @@ $ openssl rsa -in private.pem -out private_unencrypted.pem -outform PEM
 Designed by Ricardo J. Rodriguez (University of Zaragoza) and Razvan Raducu (University of Zaragoza).  
 Implemented by Razvan Raducu.  
 
+For more information check [AUTHORS](./AUTHORS)
+
 ## License:
 
 Secure_Socket, Sockets implementing hybrid encryption using Crypto++.
