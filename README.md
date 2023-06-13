@@ -160,7 +160,3 @@ $ openssl rsa -in private.pem -out private_unencrypted.pem -outform PEM
 ## License
 
 Licensed under the [GNU GPLv3](LICENSE) license.
-
-## TODO
-
-* Unit tests.
