@@ -157,30 +157,9 @@ $ openssl rsa -in private.pem -out private_unencrypted.pem -outform PEM
 * Cryptopp Visual Studio wiki - [https://www.cryptopp.com/wiki/Visual_Studio](https://www.cryptopp.com/wiki/Visual_Studio)
 * Cryptopp PEM Pack wiki - [https://www.cryptopp.com/wiki/PEM_Pack](https://www.cryptopp.com/wiki/PEM_Pack)
 
-## Authors:
+## License
 
-Designed by Ricardo J. Rodriguez (University of Zaragoza) and Razvan Raducu (University of Zaragoza).  
-Implemented by Razvan Raducu.  
-
-For more information check [AUTHORS](./AUTHORS)
-
-## License:
-
-Secure_Socket, Sockets implementing hybrid encryption using Crypto++.
-Copyright (C) 2022 and forth. Razvan Raducu and Ricardo J. Rodriguez.
-
-Secure_Socket is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-Secure_Socket is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program.  If not, see <https://www.gnu.org/licenses/>.
+Licensed under the [GNU GPLv3](LICENSE) license.
 
 ## TODO
 
